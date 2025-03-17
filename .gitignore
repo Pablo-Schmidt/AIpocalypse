@@ -1,4 +1,4 @@
-# Ignore Binaries, Intermediate, and Saved folders (Unreal Engine temporary files) 
+# Ignore Binaries, Intermediate, and Saved folders (Unreal Engine temporary files)
 Binaries/
 Build/
 DerivedDataCache/
