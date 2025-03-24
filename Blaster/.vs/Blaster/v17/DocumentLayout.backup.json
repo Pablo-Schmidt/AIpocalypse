@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BlasterCharacter.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp",
               "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterCharacter.cpp",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp",
               "RelativeToolTip": "Source\\Blaster\\Character\\BlasterCharacter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-24T00:41:07.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "BlasterCharacter.h",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.h",
               "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterCharacter.h",
-              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.h",
-              "RelativeToolTip": "Source\\Blaster\\Character\\BlasterCharacter.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.h*",
+              "RelativeToolTip": "Source\\Blaster\\Character\\BlasterCharacter.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-24T00:41:07.26Z",
               "EditorCaption": ""
