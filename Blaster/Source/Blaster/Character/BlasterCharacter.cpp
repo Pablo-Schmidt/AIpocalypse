@@ -58,7 +58,10 @@ void ABlasterCharacter::MoveRight(float Value)
 }
 
 void ABlasterCharacter::Turn(float Value)
-{
+{    
+    CameraBoom->SetupAttachment(GetMesh());
+    CameraBoom->bDoCollisionTest = false; // this line is to test if the camera doesnt go away when jumping
+    //CameraBoom->SetupAttachment(RootComponent); This line was making the camara go away when jumping
     AddControllerYawInput(Value);
 }
 

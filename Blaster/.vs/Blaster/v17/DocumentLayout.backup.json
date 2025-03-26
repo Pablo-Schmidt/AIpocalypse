@@ -11,6 +11,14 @@
       "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterAnimInstance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Source\\Blaster\\Character\\BlasterAnimInstance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4386F634-2FF4-3FE7-A261-EFD7EC23D7FE}|Intermediate\\ProjectFiles\\Blaster.vcxproj|solutionrelative:Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,8 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlasterAnimInstance.cpp",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.cpp",
+              "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterAnimInstance.cpp",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.cpp",
+              "RelativeToolTip": "Source\\Blaster\\Character\\BlasterAnimInstance.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-24T14:08:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlasterAnimInstance.h",
+              "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.h",
+              "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterAnimInstance.h",
+              "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterAnimInstance.h",
+              "RelativeToolTip": "Source\\Blaster\\Character\\BlasterAnimInstance.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-24T14:08:04.323Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +65,7 @@
               "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterCharacter.cpp",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.cpp",
               "RelativeToolTip": "Source\\Blaster\\Character\\BlasterCharacter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAD4AAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-24T00:41:07.588Z",
               "EditorCaption": ""
@@ -45,14 +78,14 @@
               "RelativeDocumentMoniker": "Source\\Blaster\\Character\\BlasterCharacter.h",
               "ToolTip": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Source\\Blaster\\Character\\BlasterCharacter.h",
               "RelativeToolTip": "Source\\Blaster\\Character\\BlasterCharacter.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-24T00:41:07.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Menu.cpp",
               "DocumentMoniker": "C:\\Users\\Pablo\\Documents\\Unreal Projects\\AIpocalypse\\Blaster\\Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp",
               "RelativeDocumentMoniker": "Plugins\\MultiplayerSessions\\Source\\MultiplayerSessions\\Private\\Menu.cpp",
