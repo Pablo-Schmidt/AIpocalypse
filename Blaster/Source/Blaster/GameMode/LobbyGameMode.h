@@ -16,4 +16,16 @@ class BLASTER_API ALobbyGameMode : public AGameMode
 public:
     virtual void PostLogin(APlayerController* NewPlayer) override;
 
-};
+}; 
+
+// test lines
+    //UFUNCTION(NetMulticast, Reliable)
+    //void MulticastTravelToBlasterMap();
+
+    //test line
+
+    //virtual bool CanServerTravel(const FString& URL, bool bAbsolute) override { return true; }
+
+
+//  };
+
