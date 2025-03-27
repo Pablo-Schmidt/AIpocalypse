@@ -15,9 +15,19 @@ void ALobbyGameMode::PostLogin(APlayerController* NewPlayer)
         if (World)
         {
             bUseSeamlessTravel = true;
+            //next line is testing, try to add extra time to load the map for join player
+            FTimerHandle TravelTimer;
+            GetWorldTimerManager().SetTimer(TravelTimer, this, &ALobbyGameMode::ServerTravelToBlasterMap, 5.0f, false);
             World->ServerTravel(FString("/Game/Maps/BlasterMap?listen"));
         }
     }
+}
+
+void ALobbyGameMode::ServerTravelToBlasterMap()
+{
+    //next line is testing, try to add extra time to load the map for join player
+    FTimerHandle TravelTimer;
+    GetWorldTimerManager().SetTimer(TravelTimer, this, &ALobbyGameMode::ServerTravelToBlasterMap, 5.0f, false);
 }
 
 

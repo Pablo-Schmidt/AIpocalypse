@@ -16,6 +16,10 @@ class BLASTER_API ALobbyGameMode : public AGameMode
 public:
     virtual void PostLogin(APlayerController* NewPlayer) override;
 
+    //next 2 lines are testing, try to add extra time to load the map for join player
+    UFUNCTION()
+    void ServerTravelToBlasterMap();
+
 }; 
 
 // test lines

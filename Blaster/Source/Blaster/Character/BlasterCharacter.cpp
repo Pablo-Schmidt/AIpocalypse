@@ -6,6 +6,7 @@
 #include "Camera/CameraComponent.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
+
 ABlasterCharacter::ABlasterCharacter()
 {
     PrimaryActorTick.bCanEverTick = true;
@@ -22,6 +23,7 @@ ABlasterCharacter::ABlasterCharacter()
     bUseControllerRotationYaw = false;
     //
     GetCharacterMovement()->bOrientRotationToMovement = true;
+
 }
 
 void ABlasterCharacter::BeginPlay()
@@ -80,3 +82,4 @@ void ABlasterCharacter::Tick(float DeltaTime)
     Super::Tick(DeltaTime);
 
 }
+
